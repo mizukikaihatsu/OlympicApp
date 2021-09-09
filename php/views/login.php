@@ -8,7 +8,7 @@ function index()
     <h1 class="sr-only">ログイン</h1>
     <div class="mt-5">
         <div class="text-center mb-4">
-            <img width="65" src="images/logo.svg" alt="みんなのアンケート　サイトロゴ">
+            <img width="65" src="images/logo-olympic.png" alt="オリンピックメダル予想　サイトロゴ">
         </div>
         <div class="login-form bg-white p-4 shadow-sm mx-auto rounded">
             <form class="validate-form" action="<?php echo CURRENT_URI; ?>" method="POST" novalidate autocomplete="off">
